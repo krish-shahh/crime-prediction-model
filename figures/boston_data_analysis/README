@@ -1,0 +1,16 @@
+Contains files pertaining to the Boston Crime Data.
+
+These are just simple heat-maps/analyses.
+
+Countplots: 
+Crimes are counted and grouped by either:
+	Day of the Week
+	Month
+	Reporting District
+	Shift Served
+	Year
+	Weapon Type
+	By Shooting/No Shooting
+	Month in a Particular Year
+
+

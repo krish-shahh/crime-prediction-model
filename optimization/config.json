@@ -1,0 +1,44 @@
+{
+    "language"        : "PYTHON",
+    "main-file"       : "optimize.py",
+    "experiment-name" : "gaussian_process",
+    "likelihood"      : "NOISELESS",
+    "variables" : {
+        "n" : {
+            "type" : "INT",
+            "size" : 1,
+            "min"  : 3,
+            "max"  : 15
+        },
+        "l1" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : 0.0001,
+            "max"  : 100
+        },
+        "l2" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : 0.0001,
+            "max"  : 100
+        },
+        "l3" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : 0.0001,
+            "max"  : 100
+        },
+        "horz" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : 0.0001,
+            "max"  : 150
+        },
+        "sig_eps" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : 0.0001,
+            "max"  : 150
+        }
+    }
+}
