@@ -11,9 +11,6 @@ Running the code in this repository requires the installation of:
     - pandas
     - pickle
 
-Code is contained either in the notebook/ directory (iPython Notebooks)
-or in predictor/ directory (source code for predictor).
-
 Problem Statement
 =================
 
