@@ -1,4 +1,4 @@
-Crime Predictions
+Crime Prediction Model
 =================
 
 Required Package(s)
